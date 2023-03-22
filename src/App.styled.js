@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { NEUTRAL, PRIMARY } from "./constants";
+import { PRIMARY } from "./constants";
 
 export const AppWrapper = styled.div`
   display: flex;

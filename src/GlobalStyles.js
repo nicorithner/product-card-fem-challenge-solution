@@ -61,34 +61,6 @@ p, h1, h2, h3, h4, h5, h6 {
 #root, #__next {
   isolation: isolate;
 }
-
-/*
-  10. Fonts
-*/
-
-@font-face {
-  font-family: "Montserrat";
-  src: url(https://fonts.google.com/specimen/Montserrat)
-  font-weight: 500;
-  font-style: normal;
-  font-display: fallback;
-}
-
-@font-face {
-  font-family: "Montserrat";
-  src: url(https://fonts.google.com/specimen/Montserrat)
-  font-weight: 700;
-  font-style: normal;
-  font-display: fallback;
-}
-
-@font-face {
-  font-family: "Fraunces";
-  src: url(https://fonts.google.com/specimen/Fraunces);
-  font-weight: 700;
-  font-style: normal;
-  font-display: fallback;
-}
 `;
 
 export default GlobalStyles;

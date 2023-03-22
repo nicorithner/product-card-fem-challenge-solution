@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/product-card-fem-challenge-solution/static/css/main.ec7adf17.css",
+    "main.js": "/product-card-fem-challenge-solution/static/js/main.018e2f0d.js",
+    "static/js/787.3a1c88f6.chunk.js": "/product-card-fem-challenge-solution/static/js/787.3a1c88f6.chunk.js",
+    "static/media/montserrat-all-400-normal.woff": "/product-card-fem-challenge-solution/static/media/montserrat-all-400-normal.327fab0afc997a2d9b16.woff",
+    "static/media/image-product-desktop.jpg": "/product-card-fem-challenge-solution/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "static/media/fraunces-all-400-normal.woff": "/product-card-fem-challenge-solution/static/media/fraunces-all-400-normal.1ab8033dedf725ad5f37.woff",
+    "static/media/image-product-mobile.jpg": "/product-card-fem-challenge-solution/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
+    "static/media/fraunces-latin-400-normal.woff2": "/product-card-fem-challenge-solution/static/media/fraunces-latin-400-normal.127f376cbe1a4dbdb0fc.woff2",
+    "static/media/fraunces-latin-ext-400-normal.woff2": "/product-card-fem-challenge-solution/static/media/fraunces-latin-ext-400-normal.dbcb9b3f1e3377339d15.woff2",
+    "static/media/montserrat-latin-400-normal.woff2": "/product-card-fem-challenge-solution/static/media/montserrat-latin-400-normal.acb6629fe45c43ad5d8b.woff2",
+    "static/media/montserrat-latin-ext-400-normal.woff2": "/product-card-fem-challenge-solution/static/media/montserrat-latin-ext-400-normal.0204ec08a4b574088f02.woff2",
+    "static/media/montserrat-cyrillic-ext-400-normal.woff2": "/product-card-fem-challenge-solution/static/media/montserrat-cyrillic-ext-400-normal.bbf9e820a2563aac0d8b.woff2",
+    "static/media/montserrat-cyrillic-400-normal.woff2": "/product-card-fem-challenge-solution/static/media/montserrat-cyrillic-400-normal.e5c5c19c23e370a342c8.woff2",
+    "static/media/fraunces-vietnamese-400-normal.woff2": "/product-card-fem-challenge-solution/static/media/fraunces-vietnamese-400-normal.9b78be53f64a2999bb15.woff2",
+    "static/media/montserrat-vietnamese-400-normal.woff2": "/product-card-fem-challenge-solution/static/media/montserrat-vietnamese-400-normal.8f3f4c99eb0eeb5990f1.woff2",
+    "index.html": "/product-card-fem-challenge-solution/index.html",
+    "static/media/icon-cart.svg": "/product-card-fem-challenge-solution/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
+    "main.ec7adf17.css.map": "/product-card-fem-challenge-solution/static/css/main.ec7adf17.css.map",
+    "main.018e2f0d.js.map": "/product-card-fem-challenge-solution/static/js/main.018e2f0d.js.map",
+    "787.3a1c88f6.chunk.js.map": "/product-card-fem-challenge-solution/static/js/787.3a1c88f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec7adf17.css",
+    "static/js/main.018e2f0d.js"
+  ]
+}

@@ -26,13 +26,17 @@ Users should be able to:
 
 <div align="center">
 
-#### Desktop View
-
-![Desktop View](./public/desktop-view.png =500x)
-
-#### Mobile View
-
-![Mobile View](./public/mobile-view.png =500x)
+  #### Desktop View
+  
+  <div align="center">
+    <img src="./public/desktop-view.png" style="width: 500px"/>
+  </div>
+  
+  #### Mobile View
+  
+  <div align="center">
+    <img src="./public/mobile-view.png" style="width: 500px"/>
+  </div>
 
 </div>
 

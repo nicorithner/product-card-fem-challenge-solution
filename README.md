@@ -1,46 +1,58 @@
-# Getting Started with Create React App
+# Frontend Mentor - Product preview card component solution
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
 
-### `npm start`
+## Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### The challenge
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Users should be able to:
 
-### `npm test`
+- View the optimal layout for the interface depending on their device's screen size
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Screenshots
 
-### `npm run build`
+<div align="center">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Desktop View
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Desktop View](./public/desktop-view.png =500x)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### Mobile View
 
-### `npm run eject`
+![Mobile View](./public/mobile-view.png =500x)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+</div>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Links
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Live Site URL: [github page](https://nicorithner.github.io/product-card-fem-challenge-solution/)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## My process
 
-## Learn More
+### Built with
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [React](https://reactjs.org/) - JS library
+- [Styled Components](https://styled-components.com/) - For styles
+- [fontsource](https://fontsource.org/) - To add fonts
+- [Figma](https://www.figma.com/) - Figma, as design source
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### What I learned
+
+I had some problems importing the fonts required for the project and learned about fontsource as an viable option.
+
+### Continued development
+
+I may comeback to this project to add tests.

@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { PRIMARY } from "./constants";
 
-export const AppWrapper = styled.div`
+export const AppWrapper = styled.main`
   display: flex;
   align-items: center;
   justify-content: center;

@@ -35,6 +35,7 @@ export const ProductSummary = styled.div`
     color: ${NEUTRAL.darkGrayishBlue};
     font-size: ${12 / 16}rem;
     line-height: ${15 / 16}rem;
+    letter-spacing: 5px;
   }
 
   p {

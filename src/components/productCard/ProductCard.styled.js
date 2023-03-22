@@ -7,10 +7,34 @@ export const Wrapper = styled.section`
   height: 450px;
   background-color: ${NEUTRAL.white};
   border-radius: ${10 / 16}rem;
+
+  @media (max-width: 400px) {
+    width: 100%;
+    flex-direction: column;
+    height: auto;
+    margin: 1rem;
+  }
 `;
+
 export const ProductImage = styled.img`
   width: 300px;
   height: 450px;
+
+  @media (max-width: 400px) {
+    display: none;
+  }
+`;
+
+export const ProductImageMobile = styled.img`
+  display: none;
+  width: auto;
+  height: 240px;
+  object-fit: cover;
+  border-radius: ${10 / 16}rem ${10 / 16}rem 0 0;
+
+  @media (max-width: 400px) {
+    display: block;
+  }
 `;
 
 export const ProductSummary = styled.div`
@@ -45,6 +69,10 @@ export const ProductSummary = styled.div`
     color: ${NEUTRAL.darkGrayishBlue};
     font-size: ${14 / 16}rem;
     line-height: ${23 / 16}rem;
+  }
+
+  @media (max-width: 400px) {
+    gap: 1rem;
   }
 `;
 

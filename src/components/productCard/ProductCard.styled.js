@@ -109,7 +109,7 @@ export const CartButton = styled.button`
   height: 48px;
   border-radius: ${8 / 16}rem;
 
-  p {
+  span {
     color: ${NEUTRAL.white};
     font-family: "Montserrat";
     font-style: normal;

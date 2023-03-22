@@ -34,7 +34,7 @@ export default function ProductCard() {
 
         <CartButton>
           <CartIcon src={cartIcon} alt="cart icon" />
-          <p>Add to Cart</p>
+          <span>Add to Cart</span>
         </CartButton>
       </ProductSummary>
     </Wrapper>
